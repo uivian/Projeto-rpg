@@ -1,0 +1,23 @@
+h1 {
+   margin: 2rem;
+}
+
+button {
+   border: 0;
+   padding: 1rem 2rem;
+   margin: -4.7rem;
+   background-color: #0772ff;
+   position: relative;
+   float: right;
+   right: 10%;
+   border-radius: .8rem;
+   color: white;
+   font-size: 1rem;
+   transition: .18s all;
+}
+
+button:hover {
+   background-color: #0351b7;
+   cursor: pointer;
+}
+
