@@ -8,9 +8,9 @@ Após a instalação das dependências (QUE DEVE SER FEITA APENAS UMA VEZ), para
 
 ### Estrutura de pastas
 
---src: Pasta onde será feito o desenvolvimento do projeto
-----assets: Onde ficará todas as imagens, icones etc.
-----components: Pasta que terá componentes e arquivos globais.
-----pages: Local onde terá as pastas referêntes a cada componente, divididos em pastas de cada página do projeto.
+* src: Pasta onde será feito o desenvolvimento do projeto
+* assets: Onde ficará todas as imagens, icones etc.
+* components: Pasta que terá componentes e arquivos globais.
+* pages: Local onde terá as pastas referêntes a cada componente, divididos em pastas de cada página do projeto.
 
 Projeto criado com [Create React App](https://github.com/facebook/create-react-app).
